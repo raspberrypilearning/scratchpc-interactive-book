@@ -7,7 +7,7 @@ A <span style="color: #0faeb0">project brief</span> describes what a project mus
 </p>
 
 You will:
-+ Think of original design ideas to create an interactive digital book,
++ Think of original design ideas to create an interactive electronic book,
 + Choose which skills to use to make your idea,
 + Fabricate a physical book with conductive pages and an activation device,
 + Code the interactive story (You can use your book from the Scratch 1 pathway, if you have completed it!)
