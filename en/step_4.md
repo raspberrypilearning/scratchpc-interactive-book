@@ -149,6 +149,6 @@ Alternatively, you may not have selected the right number for your pins in the c
 
 --- /task ---
 
-Once you have created the code and interactions for your book, we now need to fabricate the pages!
+Once you have created the code and interactions for your book and know it is working the way you want, you can upgrade your project and share it with friends and family!
 
 --- save ---
