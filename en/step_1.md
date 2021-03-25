@@ -35,7 +35,7 @@ Your book should:
 + Have at least one sprite,
 + Have interactive features on each page,
 + Say or do something different with every page,
-+ Have speech or sound effects,
++ Have speech or sound effects.
 
 
 Your book could:
@@ -46,7 +46,7 @@ Your book could:
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created and read on a computer, tablet, phone or other electronic device. Have you read any books on a digital device?
+A <span style="color: #0faeb0">digital book</span> will be made up of multiple pages
 </p>
 
 --- no-print ---
