@@ -8,8 +8,8 @@ last_tested: "2021-03-24"
 steps:
   - title: Introduction
   - title: Your idea
-  - title: Build and test
-  - title: Share
+  - title: Code and test
+  - title: Make your pages
   - title: Upgrade your project
   - title: Reflect
   - title: What next?

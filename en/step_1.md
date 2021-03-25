@@ -13,12 +13,21 @@ You will:
 + Code the interactive story (You can use your book from the Scratch 1 pathway, if you have completed it!)
 + Connect it to your Raspberry Pi and show your friends and fanily!
 
+### What you will need
+To make an electronic book, you will need:
+ + A Raspberry Pi
+ + Thin cardboard (manila folders or cereal boxes are perfect!)
+ + Aluminium foil
+ + Glue
+ + Strong tape
+ + F-F Jumper cables
+
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Electric book
+### PROJECT BRIEF: Electronic book
 <hr style="border-top: 2px solid black;">
 
-You need to create an **electric book**. Your book could be a story, a tutorial, a fact book, an interactive book or something else.
+You need to create an **electronic book**. Your book could be a story, a tutorial, a fact book, an interactive book... or something else!
 
 Your book should:
 + Have multiple pages with a way to turn to the next page,

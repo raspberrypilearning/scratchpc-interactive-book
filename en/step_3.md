@@ -118,3 +118,9 @@ title: My sound does not play
 Have you added a block to `play sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the **Sounds** tab. Check the volume on your computer and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"}`100`.
 
 --- /collapse ---
+
+--- /task ---
+
+Once you have created the code and interactions for your book, we now need to fabricate the pages!
+
+--- save ---
