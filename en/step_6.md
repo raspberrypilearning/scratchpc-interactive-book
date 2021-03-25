@@ -18,6 +18,7 @@ Speech or sound effects.
 --- /task ---
 
 Your book could also have:
+
 --- task ---
 Changing backdrops for each page. 
 --- /task ---
