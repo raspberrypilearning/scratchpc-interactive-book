@@ -47,7 +47,7 @@ Your book could:
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">digital book</span> will be made up of multiple pages
+An <span style="color: #0faeb0">electronic book</span> is made up of multiple pages with conductive inserts which interact with code wirtten in Scratch.
 </p>
 
 --- no-print ---
