@@ -11,7 +11,7 @@ You will:
 + Choose which skills to use to make your idea,
 + Fabricate a physical book with conductive pages and an activation device,
 + Code the interactive story (You can use your book from the Scratch 1 pathway, if you have completed it!)
-+ Connect it to your Raspberry Pi and show your friends and fanily!
++ Connect it to your Raspberry Pi and show your friends and family!
 
 ### What you will need
 To make an electronic book, you will need:

@@ -63,7 +63,11 @@ IMAGE HERE![multiple pages of a book](images/pages-rama.png)
 If you like, you can also tape the edges of your page closed for extra durability.
 --- /task ---
 
-Repeat these steps for each of your pages. Once you have made them all, you will need to create your interaction tool; which acts as a **common ground** that will close the circuit and 'press the button'. 
+--- task ---
+Repeat these steps for each of your pages, then bind them together along the spine using strong tape to make a book.
+--- /task ---
+
+Once you have your book completed, you will need to create your interaction tool; which acts as a **common ground** that will close the circuit and 'press the button'. 
 
 In this example I am making a magic wand, but you can cut any shape you like from cardboard to wrap in foil or simply wrap something suitable you find in the recycling.
 
