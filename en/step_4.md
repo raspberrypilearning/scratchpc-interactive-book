@@ -142,7 +142,7 @@ title: Nothing happens when I touch the tool to a contact
 
 You may not have a good connection to the foil inside the page or your tool. Check the connection from the wire to the foil is clear in both cases - sometimes too much glue can insulate your wire!
 
-Alternatively, you may not have selected the right number for your pins in the code. Go back and check that all your `When button [ ] pressed`{:class="block3extension"}  blocks have the right values for the pins you are connected to.
+Alternatively, you may not have selected the right number for your pins in the code. Go back and check that all your `When button [ ] pressed`{:class="block3extensions"}  blocks have the right values for the pins you are connected to.
 
 --- /collapse ---
 
