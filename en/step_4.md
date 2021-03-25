@@ -1,33 +1,128 @@
-## Make your pages
+## Build and test
 
-Once you have the story and interactions for your book, you'll need to make the pages.
+Now it's time to make your book. Start small, and add more to your project if you have time.
+
+![multiple pages of a book](images/pages-rama.png)
+
+**Tip:** Remember to test your project each time you add something. It's much easier to find and fix bugs before you make more changes.
 
 --- task ---
-Decide how many pages you will need for your electronic book. 
-
-You might have one per backdrop, or just a cover and a single inside page with multiple buttons.
+You will need to decide what order to build your book. To get started, you could:
+- Create all the pages as backdrops, or
+- Get one page working first
 --- /task ---
 
-Each page needs to have a back and a front made of cardboard, with internal contacts made from aluminium foil - like a sandwich.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+You may not have time to add everything you want to your book. That's okay, you can always come back to it later. 
+</p>
 
 --- task ---
-Gather or cut the needed amount of cardboard for your book's pages.
 
-If you are using cardboard, you will need to get a back and a front piece cut out for each page you need. If you are using manila folders (or similar items) you can use one per page by simply gluing the foil inside.
+If you have completed the Scratch 1 pathway, you will have collected some very useful skills. If you haven't yet completed that pathway, you should do it next! 
+
+Here is a reminder to help you make your electronic book: 
+
+Code:
+
+[[[scratch3-changing-backdrops-pages-levels]]]
+
+[[[scratch3-change-costumes-to-show-mood]]]
+
+[[[scratch3-animate-movement-costumes]]]
+
+[[[scratch3-graphic-effects]]]
+
+[[[scratch3-show-hide-sprites-backdrops]]]
+
+[[[scratch3-positioning-with-layers]]]
+
+[[[scratch3-jiggle-a-sprite]]]
+
+Paint editor - backdrops and costumes:
+
+[[[scratch3-paint-a-new-backdrop-extended]]]
+
+[[[scratch3-backdrops-and-sprites-using-shapes]]]
+
+[[[scratch3-use-text-tool]]]
+
+[[[scratch3-copy-parts-between-sprite-costumes]]]
+
+[[[scratch3-add-costumes-to-a-sprite]]]
+
+Sound: 
+
+[[[scratch3-add-sound]]]
+
+[[[scratch3-record-sound]]]
+
+[[[scratch3-text-to-speech]]]
+
+Editor:
+
+[[[scratch3-copy-code]]]
+
+[[[scratch3-full-screen]]]
+
+[[[scratch3-duplicate-sprite]]]
+
+
 --- /task ---
 
-Each page needs to have a simple  design on the front side which relates to what is happening in your book. These designs will be cut out of each page, re-covered with foil and connected to he Raspberry Pi's GP pins to create buttons for your reader to interact with.
-
 --- task ---
-Draw the designs you want to have on each page. Keep them fairly simple, as more complex shapes may not work well. You can search online for 'stencil' images to see some good examples. 
+
+**Test:** Show someone else your project and get their feedback. Do you want make any changes to your book? 
+
 --- /task ---
 
 --- task ---
-Once you have drawn all the designs you need on the front side of each page, cut them out using a craft knife or scissors. Make sure you get permission from an adult to use sharp tools.
---- /task --- 
 
---- task ---
-Take your F-F jumper cables and remove one of the ends by pulling it using a little force. We want to try and expose the internal core of the wire.
+**Debug:**
+
+You might find some bugs in your code that you need to fix. Here are some common bugs:
+
+--- collapse ---
+
+---
+title: My sprites is showing or hiding on the wrong pages
+---
+
+Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} as needed. Check that you have chosen the correct backdrop name `when backdrop switches to`{:class="block3events"}. It helps to give backdrops good names to help spot problems like this.
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: My sprite is going upside down
+---
+
+Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: My sprite 'jumps' when it changes costume or bounces
+---
+
+Make sure that the costume is centred in the Paint editor (line up the blue cross with the cross hairs in the centre of the Paint editor).
+
+--- /collapse ---
+
+--- collapse ---
+
+---
+title: My sound does not play
+---
+
+Have you added a block to `play sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the **Sounds** tab. Check the volume on your computer and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"}`100`.
+
+--- /collapse ---
+
 --- /task ---
 
---- task ---
+Once you have created the code and interactions for your book, we now need to fabricate the pages!
+
+--- save ---

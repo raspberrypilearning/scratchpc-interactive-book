@@ -16,11 +16,12 @@ You will:
 ### What you will need
 To make an electronic book, you will need:
  + A Raspberry Pi
+ + F-F Jumper cables
  + Thin cardboard (manila folders or cereal boxes are perfect!)
  + Aluminium foil
  + Glue
  + Strong tape
- + F-F Jumper cables
+ + Scissors or craft knife (get an adult's permission to use sharp tools!)
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
@@ -32,12 +33,13 @@ You need to create an **electronic book**. Your book could be a story, a tutoria
 Your book should:
 + Have multiple pages with a way to turn to the next page,
 + Have at least one sprite,
-+ Have interactive features on each page.
-+ Say or do something different with every page.
++ Have interactive features on each page,
++ Say or do something different with every page,
++ Have speech or sound effects,
 
 
 Your book could:
-+ Have speech or sound effects,
++ Have changing backdrops for each page,
 + Have text or art created in the paint editor,
 + Have multiple 'buttons' on each page.
 

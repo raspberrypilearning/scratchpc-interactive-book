@@ -1,126 +1,68 @@
-## Build and test
+## Make your pages
 
-Now it's time to make your book. Start small, and add more to your project if you have time.
-
-![multiple pages of a book](images/pages-rama.png)
-
-**Tip:** Remember to test your project each time you add something. It's much easier to find and fix bugs before you make more changes.
+Once you have the story and interactions for your book, you'll need to make the pages.
 
 --- task ---
-You will need to decide what order to build your book. To get started, you could:
-- Create all the pages as backdrops, or
-- Get one page working first
+Decide how many pages you will need for your electronic book. You might have one per backdrop, or just a cover and a single inside page with multiple buttons.
+
+Decide upon what your interaction tool will look like. This is the thing your reader will touch to the pages to activate the book. It might be a magic wand, a star or anything you like!
 --- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything you want to your book. That's okay, you can always come back to it later. 
-</p>
+Each page needs to have a back and a front made of cardboard, with internal contacts made from aluminium foil - like a sandwich.
 
 --- task ---
+Gather or cut the needed amount of cardboard for your book's pages.
 
-You have built up some really useful Scratch skills. Here is a reminder to help you make your book: 
+If you are using cardboard, you will need to get a back and a front piece cut out for each page you need. If you are using manila folders (or similar items) you can use one per page by simply gluing the foil inside.
+--- /task ---
 
-Code:
+Each page needs to have a simple  design on the front side which relates to what is happening in your book. These designs will be cut out of each page, re-covered with foil and connected to he Raspberry Pi's GP pins to create buttons for your reader to interact with.
 
-[[[scratch3-changing-backdrops-pages-levels]]]
-
-[[[scratch3-change-costumes-to-show-mood]]]
-
-[[[scratch3-animate-movement-costumes]]]
-
-[[[scratch3-graphic-effects]]]
-
-[[[scratch3-show-hide-sprites-backdrops]]]
-
-[[[scratch3-positioning-with-layers]]]
-
-[[[scratch3-jiggle-a-sprite]]]
-
-Paint editor - backdrops and costumes:
-
-[[[scratch3-paint-a-new-backdrop-extended]]]
-
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
-
-[[[scratch3-use-text-tool]]]
-
-[[[scratch3-copy-parts-between-sprite-costumes]]]
-
-[[[scratch3-add-costumes-to-a-sprite]]]
-
-Sound: 
-
-[[[scratch3-add-sound]]]
-
-[[[scratch3-record-sound]]]
-
-[[[scratch3-text-to-speech]]]
-
-Editor:
-
-[[[scratch3-copy-code]]]
-
-[[[scratch3-full-screen]]]
-
-[[[scratch3-duplicate-sprite]]]
-
-
+--- task ---
+Draw the designs you want to have on each page. Keep them fairly simple, as more complex shapes may not work well. You can search online for 'stencil' images to see some good examples. 
 --- /task ---
 
 --- task ---
+Once you have drawn all the designs you need on the front side of each page, cut them out using a craft knife or scissors. Make sure you get permission from an adult to use sharp tools.
+--- /task --- 
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your book? 
-
+--- task ---
+Take your F-F jumper cables and remove one of the ends by pulling it using a little force. We want to try and expose the internal core of the wire.
 --- /task ---
 
 --- task ---
-
-**Debug:**
-
-You might find some bugs in your code that you need to fix. Here are some common bugs:
-
---- collapse ---
-
----
-title: My sprites is showing or hiding on the wrong pages
----
-
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} as needed. Check that you have chosen the correct backdrop name `when backdrop switches to`{:class="block3events"}. It helps to give backdrops good names to help spot problems like this.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My sprite is going upside down
----
-
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My sprite 'jumps' when it changes costume or bounces
----
-
-Make sure that the costume is centred in the Paint editor (line up the blue cross with the cross hairs in the centre of the Paint editor).
-
---- /collapse ---
-
---- collapse ---
-
----
-title: My sound does not play
----
-
-Have you added a block to `play sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the **Sounds** tab. Check the volume on your computer and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"}`100`.
-
---- /collapse ---
-
+Turn your cut out image over so you are looking at the back (or the inside of your manila folder), with the spine side towards you. Coat the back side of your picture cut-out with glue, and press the exposed end of the wire to the cardboard, with the F end hanging out toward the spine.
 --- /task ---
 
-Once you have created the code and interactions for your book, we now need to fabricate the pages!
+--- task ---
+Tear off a sheet of foil and place it over the cut out, pressing down firmly to make sure it is stuck all over. 
 
---- save ---
+--- collapse ---
+---
+title: I'm making more than one button per page! 
+---
+If you are making multiple buttons on each page, you must **make sure that your foil pieces are not touching** or you will get a short circuit.
+
+You will also need to add a new wire for each button. Keeping them as close together sa you can will make it easier to connect later. 
+--- /collapse ---
+
+Tape down the free end of the wire as close to the spine as you can to keep it from pulling loose.
+--- /task ---
+
+--- task ---
+Coat the other side of the cardboard page with glue and press it down firmly, to finish the back of the page. 
+--- /task ---
+
+You can repeat these steps for each of your pages. Once you have made them all, you will need to create your interaction tool, which acts as a **common ground** that will close the circuit and 'press the button'. 
+
+In this example, I am making a magic wand, but you can cut any shape you like from cardboard or wrap something with foil.
+
+--- task ---
+Cut your desired shape for your interaction tool from cardboard (or recycle some junk!) 
+
+In the example, I am just going to wrap a pencil in foil.
+--- /task ---
+
+--- task ---
+Pull the end off an F-F wire and glue or tape it down to your base item, with the free end hanging off toward the user's grip. Wrap the base item in aluminium foil and glue or tape it down.
+--- /task ---
