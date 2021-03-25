@@ -134,7 +134,7 @@ Alternatively, you may not have selected the right number for your pins in the c
 
 --- /collapse ---
 
--- collapse ---
+--- collapse ---
 
 ---
 title: Nothing happens when I touch the tool to a contact
