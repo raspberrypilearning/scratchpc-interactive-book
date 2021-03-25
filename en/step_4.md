@@ -1,10 +1,11 @@
-## Build and test
+## Code and test
 
 Now it's time to make the digital part of your book. Start small, and add more to your project if you have time.
 
 **Tip:** Remember to test your project each time you add something. It's much easier to find and fix bugs before you make more changes.
+
 --- task ---
-First, add the Raspberry Pi Simple Electronics extension to your project.
+First, open a new project in Scratch on your Raspberry Pi and add the Simple Electronics extension to your project.
 --- /task ---
 
 --- task ---
@@ -18,7 +19,6 @@ You may not have time to add everything you want to your book. That's okay, you 
 </p>
 
 --- task ---
-
 If you have completed the Scratch 1 pathway, you will have collected some very useful skills. If you haven't yet completed that pathway, you should do it next! 
 
 Here is a reminder to help you make your electronic book: 
