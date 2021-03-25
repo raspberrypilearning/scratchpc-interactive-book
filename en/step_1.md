@@ -38,11 +38,6 @@ Your book could:
 A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created and read on a computer, tablet, phone or other electronic device. Have you read any books on a digital device?
 </p>
 
---- task ---
-
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
-
 --- no-print ---
 
 ### Get inspiration
