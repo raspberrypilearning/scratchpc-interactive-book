@@ -1,10 +1,11 @@
 ## Build and test
 
-Now it's time to make your book. Start small, and add more to your project if you have time.
-
-![multiple pages of a book](images/pages-rama.png)
+Now it's time to make the digital part of your book. Start small, and add more to your project if you have time.
 
 **Tip:** Remember to test your project each time you add something. It's much easier to find and fix bugs before you make more changes.
+--- task ---
+First, add the Raspberry Pi Simple Electronics extension to your project.
+--- /task ---
 
 --- task ---
 You will need to decide what order to build your book. To get started, you could:
@@ -120,6 +121,31 @@ title: My sound does not play
 Have you added a block to `play sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the **Sounds** tab. Check the volume on your computer and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"}`100`.
 
 --- /collapse ---
+
+--- collapse ---
+
+---
+title: More than one thing is happening at a time
+---
+
+You have a short circuit between two contacts. Somewhere in the faulty page, your foil or wires are touching and activating at the same time.
+
+Alternatively, you may not have selected the right number for your pins in the code. Go back and check that all your `When button [ ] pressed`{:class="block3extension"}  blocks have the right values for the pins you are connected to.
+
+--- /collapse ---
+
+-- collapse ---
+
+---
+title: Nothing happens when I touch the tool to a contact
+---
+
+You may not have a good connection to the foil inside the page or your tool. Check the connection from the wire to the foil is clear in both cases - sometimes too much glue can insulate your wire!
+
+Alternatively, you may not have selected the right number for your pins in the code. Go back and check that all your `When button [ ] pressed`{:class="block3extension"}  blocks have the right values for the pins you are connected to.
+
+--- /collapse ---
+
 
 --- /task ---
 
