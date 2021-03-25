@@ -130,7 +130,7 @@ title: More than one thing is happening at a time
 
 You may have a short circuit between two contacts. Somewhere in the faulty page, your foil or wires are touching and activating at the same time.
 
-Alternatively, you may not have selected the right number for your pins in the code. Go back and check that all your `When button [ ] pressed`{:class="block3extension"}  blocks have the right values for the pins you are connected to.
+Alternatively, you may not have selected the right number for your pins in the code. Go back and check that all your `When button [ ] pressed`{:class="block3extensions"}  blocks have the right values for the pins you are connected to.
 
 --- /collapse ---
 
