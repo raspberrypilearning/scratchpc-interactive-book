@@ -67,6 +67,7 @@ If you like, you can also tape the edges of your page closed for extra durabilit
 --- task ---
 Repeat these steps for each of your pages, then bind them together along the spine using strong tape to make a book.
 ![multiple finished pages of a book with shiny inserts](images/6-repeat-pages.jpg)
+
 ![multiple pages of a book bound together on one edge with strong tape to make a book](images/7-bind-spine.jpg)
 --- /task ---
 
@@ -77,6 +78,7 @@ In this example I am making a magic wand, but you can cut any shape you like fro
 --- task ---
 Cut your desired shape for your interaction tool from cardboard (or recycle some junk!) 
 ![a pencil and a jumper cable with one end stripped laying on a sheet of aluminium foil](images/8-pencil-foil.jpg)
+
 In the example, I am just going to wrap a pencil in foil.
 --- /task ---
 
