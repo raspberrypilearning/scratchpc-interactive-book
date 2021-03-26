@@ -46,7 +46,7 @@ title: I'm making more than one button per page!
 ---
 If you are making multiple buttons on each page, you must **make sure that your foil pieces are not touching** or you will get a short circuit.
 
-You will also need to add a new wire for each button. Keeping them as close together sa you can will make it easier to connect later. 
+You will also need to add a new wire for each button. Keeping them as close together as you can will make it easier to connect later. 
 --- /collapse ---
 
 --- /task ---
@@ -59,6 +59,7 @@ Tape down the free end of the wire as close to the spine as you can to keep it f
 
 --- task ---
 Coat the other side of the cardboard page with glue and press it down firmly, to finish the back of the page. 
+
 If you like, you can also tape the edges of your page closed for extra durability.
 --- /task ---
 
