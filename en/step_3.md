@@ -73,7 +73,7 @@ Repeat these steps for each of your pages, then bind them together along the spi
 
 Once you have your book completed, you will need to create your interaction tool; which acts as a **common ground** that will close the circuit and 'press the button'. 
 
-In this example I am making a magic wand, but you can cut any shape you like from cardboard to wrap in foil or simply wrap something suitable you find in the recycling.
+In this example I am making a magic wand, but you can cut any shape you like from cardboard to wrap in foil or simply wrap something suitable you find in the recycling bin.
 
 --- task ---
 Cut your desired shape for your interaction tool from cardboard (or recycle some junk!) 
