@@ -41,9 +41,10 @@ How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
 What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
 --- /task ---
 
-### Now you are the author of a digital book!
-
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Now you are the author of an electronic book!
 Take a moment to celebrate what you have made.
+</p>
 
 --- task ---
 
