@@ -58,10 +58,10 @@ An <span style="color: #0faeb0">electronic book</span> is made up of multiple pa
 
 Think about the topic of your book as you watch these example project videos to get more ideas:
 Self-reading book (using Text-to-speech extension):
-<iframe allowtransparency="true" src="https://youtu.be/zSl8d8gB0FM" frameborder="0"></iframe>
+<iframe allowtransparency="true" src="https://www.youtube.com/watch?v=zSl8d8gB0FM" frameborder="0"></iframe>
 
 Interactive Magic Spellbook:
-<iframe allowtransparency="true" src="https://youtu.be/Baxz_IQPJ0Y" frameborder="0"></iframe>
+<iframe allowtransparency="true" src="https://www.youtube.com/watch?v=Baxz_IQPJ0Y" frameborder="0"></iframe>
 
 --- /task ---
 
