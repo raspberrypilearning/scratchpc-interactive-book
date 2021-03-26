@@ -1,7 +1,7 @@
 ## Your idea
-
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Use this step to plan your book. You can plan by just thinking; adding backdrops and sprites in Scratch; drawing or writing; or however you like! 
-
+</p>
 ### Why are you making the book?
 
 --- task ---
