@@ -32,7 +32,7 @@ Once you have drawn all the designs you need on the front side of each page, cut
 --- /task --- 
 
 --- task ---
-Take your F-F jumper cables and remove one of the ends by pulling it using a little force. We want to try and expose the internal core of the wire.
+Take your F-F jumper cables and remove one of the ends by pulling it off using a little force. We want to try and expose the internal core of the wire.
 --- /task ---
 
 --- task ---
@@ -54,6 +54,7 @@ You will also need to add a new wire for each button. Keeping them as close toge
 --- task ---
 Tear off a sheet of foil and place it over the cut out, pressing down firmly to make sure it is stuck all over. 
 ![cut out hole covered with foil and loose wire taped down to cardboard](images/5-tape-wire.jpg)
+
 Tape down the free end of the wire as close to the spine as you can to keep it from pulling loose.
 --- /task ---
 
