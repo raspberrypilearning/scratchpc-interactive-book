@@ -1,6 +1,8 @@
 ## Make your pages
 
-Once you have the ideas for the story and interactions for your book, you'll need to make the pages.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Once you have the ideas for the story and interactions for your book, you'll need to <span style="color: #0faeb0"> make the pages.</span>
+</p>
 
 --- task ---
 Decide how many pages you will need for your electronic book. You might have one per backdrop, or just a cover and a single inside page with multiple buttons.
@@ -70,8 +72,9 @@ Repeat these steps for each of your pages, then bind them together along the spi
 
 ![multiple pages of a book bound together on one edge with strong tape to make a book](images/7-bind-spine.jpg)
 --- /task ---
-
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Once you have your book completed, you will need to create your interaction tool; which acts as a **common ground** that will close the circuit and 'press the button'. 
+</p>
 
 In this example I am making a magic wand, but you can cut any shape you like from cardboard to wrap in foil or simply wrap something suitable you find in the recycling bin.
 

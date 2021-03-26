@@ -1,6 +1,8 @@
 ## Reflect
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Did you meet the <span style="color: #0faeb0">project brief</span>? Think about your project and go through the checklist below and check off the ones that apply to your project.
+</p>
 
 Does your book have:
 
