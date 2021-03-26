@@ -2,8 +2,6 @@
 
 Use this step to plan your book. You can plan by just thinking; adding backdrops and sprites in Scratch; drawing or writing; or however you like! 
 
-![stage with sprite thinking some of the best ideas come from playing you will find good ideas by accident](images/best-ideas.png)
-
 ### Why are you making the book?
 
 --- task ---
