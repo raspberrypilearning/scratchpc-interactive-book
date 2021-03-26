@@ -1,5 +1,5 @@
 ## Upgrade your project
-If you have time you can upgrade your project by adding more detail or flair! 
+If you have time, you can upgrade your project by adding more detail or flair! 
 
 You might already have some ideas for things to improve your book, but if not we have some ideas for you!
 
