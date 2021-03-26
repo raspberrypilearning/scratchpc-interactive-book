@@ -5,7 +5,7 @@ You might already have some ideas for things to improve your book, but if not we
 
 You could:
 + Add a cover page with cool artwork,
-+ Add another page,
++ Make another page,
 + Add more code to your sprites,
 + Add another sprite,
 + Record a sound to use in the project,
