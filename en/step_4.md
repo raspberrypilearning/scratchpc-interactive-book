@@ -85,7 +85,7 @@ You might find some bugs in your code that you need to fix. Here are some common
 --- collapse ---
 
 ---
-title: My sprites is showing or hiding on the wrong pages
+title: My sprite is showing or hiding on the wrong pages
 ---
 
 Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} as needed. Check that you have chosen the correct backdrop name `when backdrop switches to`{:class="block3events"}. It helps to give backdrops good names to help spot problems like this.
