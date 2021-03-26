@@ -1,0 +1,15 @@
+title: scratchpc-interactive-book
+hero_image: images/banner.png
+description: scratchpc-interactive-book description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-24"
+steps:
+  - title: Introduction
+  - title: Your idea
+  - title: Make your pages
+  - title: Code and test 
+  - title: Upgrade your project
+  - title: Reflect
+  - title: What next?
