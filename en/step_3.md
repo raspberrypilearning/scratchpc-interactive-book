@@ -1,6 +1,6 @@
 ## Make your pages
 
-Once you have the story and interactions for your book, you'll need to make the pages.
+Once you have the ideas for the story and interactions for your book, you'll need to make the pages.
 
 --- task ---
 Decide how many pages you will need for your electronic book. You might have one per backdrop, or just a cover and a single inside page with multiple buttons.
