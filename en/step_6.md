@@ -49,5 +49,5 @@ Where will you take your new powers? What will you make next? <mark>free text an
 
 --- /task ---
 
-![scratch cat in at party hat](images/reflect.png)
+![stylised scratch workspace](images/scratch_banner.png)
 
