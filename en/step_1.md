@@ -57,6 +57,7 @@ An <span style="color: #0faeb0">electronic book</span> is made up of multiple pa
 --- task ---
 
 Think about the topic of your book as you watch these example project videos to get more ideas:
+
 Self-reading book (using Text-to-speech extension):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zSl8d8gB0FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
