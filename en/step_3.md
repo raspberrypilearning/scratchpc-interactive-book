@@ -20,10 +20,10 @@ Gather or cut the needed amount of cardboard for your book's pages.
 If you are using cardboard, you will need to cut out a back and a front piece for each page. If you are using manila folders (or similar items) you can use one per page by simply gluing the foil inside.
 --- /task ---
 
-Each page needs to have a simple design on the front side that relates to what is happening in your book. These designs will be cut out of each page, covered with foil, and connected to he Raspberry Pi's GP pins to create buttons for your reader to interact with.
+Each page needs to have a simple design on the front side that relates to what is happening in your book. These designs will be cut out of each page, replaced with foil, and connected to the Raspberry Pi's general purpose (GP) pins to create buttons for your reader to interact with.
 
 --- task ---
-Draw the designs you want to have on each page. Keep them fairly simple, as more complex shapes may not work well. You can search online for 'stencil' images to see some good examples. 
+Draw the designs you want on each page. Keep them fairly simple, as more complex shapes may not work well. You can search online for 'stencil' images to see some good examples. 
 
 ![Multiple designs drawn on sheets of cardboard.](images/2-draw-designs.jpg)
 --- /task ---
@@ -38,7 +38,7 @@ Take your F-F jumper wires and remove one of the ends by pulling it off using a 
 --- /task ---
 
 --- task ---
-Turn your cut out image over so you are looking at the back (or the inside of your manila folder). Coat the back of your picture cut-out with glue, and press the exposed end of the wire to the cardboard, with the F end hanging out toward where the spine of your book will be.
+Turn your cut out image over so you are looking at the back (or the inside of your manila folder). Coat the back of your cut out picture with glue, and press the exposed end of the wire to the cardboard, with the F end hanging out toward where the spine of your book will be.
 
 ![Glue around the edges of the cut hole with a wire pressed into the glue and hanging off the end of the cardboard.](images/4-glue-wire.jpg)
 
@@ -48,7 +48,7 @@ title: I'm making more than one button per page!
 ---
 If you are making multiple buttons on each page, you must **make sure that your foil pieces are not touching** or you will get a short circuit.
 
-You will also need to add a new wire for each button. Keeping them as close together as you can will make it easier to connect later. 
+You will also need to add a new wire for each button. Keep them as close together as you can as this will make it easier to connect them to the Raspberry Pi later. 
 --- /collapse ---
 
 --- /task ---
@@ -86,14 +86,14 @@ In the example, I am just going to wrap a pencil in foil.
 --- /task ---
 
 --- task ---
-Pull the end off an F-F wire and glue or tape it down firmly to your base item, with the free end hanging off toward the user's grip. Wrap the base item in aluminium foil and glue or tape it down.
+Pull the end off an F-F wire and glue or tape it down firmly to your base item, with the free end hanging toward the user's grip. Wrap the base item in aluminium foil and glue or tape it down.
 ![A stripped wire taped down to the pencil, being wrapped in aluminium foil with the wire hanging out of one end.](images/9-interaction-tool.jpg)
 --- /task ---
 
 --- task ---
 Connect your pages and interaction tool to your Raspberry Pi's GPIO pins, taking note of which pins you connect to. You could also use some M-F jumper cables to extend your wires and make it easier to use the book.
 ![A completed electronic book and interaction tool connected to a Raspberry Pi by many jumper wires.](images/10-connect-book.jpg)
-In the example, the pages are connected to pins 2, 3, 4, 14, and 15 while the magic wand interaction tool is connected to GND pin 6.
+In the example, the pages are connected to Pins 2, 3, 4, 14, and 15 while the magic wand interaction tool is connected to GND (ground) pin 6.
 --- /task ---
 
 Once you have your book and interaction tool wired up, it's time to write the code!
