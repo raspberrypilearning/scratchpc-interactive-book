@@ -16,19 +16,19 @@ At least one sprite
 Different actions on every page
 --- /task ---
 --- task ---
-Speech or sound effects.
+Speech or sound effects
 --- /task ---
 
 Your book could also have:
 
 --- task ---
-Changing backdrops for each page. 
+Changing backdrops for each page 
 --- /task ---
 --- task ---
-Text or art created in the paint editor.
+Text or art created in the Paint editor
 --- /task ---
 --- task ---
-Multiple interactive features on each page.
+Multiple interactive features on each page
 --- /task ---
 
 Reflecting about how you made your book will help you in your future projects:
@@ -42,7 +42,7 @@ What cool new thing(s) did you learn? <mark>free text answer, 3 characters possi
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Now you are the author of an electronic book!
+You are now the author of an electronic book!
 Take a moment to celebrate what you have made.
 </p>
 
@@ -52,5 +52,5 @@ Where will you take your new powers? What will you make next? <mark>free text an
 
 --- /task ---
 
-![stylised scratch workspace](images/scratch_banner.png)
+![Stylised scratch workspace.](images/scratch_banner.png)
 
