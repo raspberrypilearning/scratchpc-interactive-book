@@ -9,7 +9,7 @@ A <span style="color: #0faeb0">project brief</span> describes what a project mus
 You will:
 + Think of original design ideas to create an interactive electronic book
 + Choose which skills to use to make your idea
-+ Fabricate a physical book with conductive pages and an interaction device
++ Fabricate a physical book with conductive pages and a device for interaction
 + Connect it to your Raspberry Pi's GPIO pins
 + Code the interactive story (you can use your book from the Scratch 1 pathway, if you have completed it!)
 + Show your friends and family!
@@ -29,7 +29,7 @@ To make an electronic book, you will need:
 ### PROJECT BRIEF: Electronic book
 <hr style="border-top: 2px solid black;">
 
-You need to create an **electronic book**. Your book could be a story, a tutorial, a fact book, an interactive book... or something else!
+You need to create an **electronic book**. Your book could be a story, a tutorial, a fact book, an interactive book ... or something else!
 
 Your book should:
 + Have multiple pages with a way to turn to the next page
@@ -41,7 +41,7 @@ Your book should:
 
 Your book could:
 + Have changing backdrops for each page
-+ Have text or art created in the paint editor
++ Have text or art created in the Paint editor
 + Have multiple 'buttons' on each page
 
 </div>
