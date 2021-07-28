@@ -1,6 +1,8 @@
 ## Reflect
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Did you meet the <span style="color: #0faeb0">project brief</span>? Think about your project and go through the checklist below and check off the ones that apply to your project.
+</p>
 
 Does your book have:
 
@@ -14,19 +16,19 @@ At least one sprite
 Different actions on every page
 --- /task ---
 --- task ---
-Speech or sound effects.
+Speech or sound effects
 --- /task ---
 
 Your book could also have:
 
 --- task ---
-Changing backdrops for each page. 
+Changing backdrops for each page 
 --- /task ---
 --- task ---
-Text or art created in the paint editor.
+Text or art created in the Paint editor
 --- /task ---
 --- task ---
-Multiple interactive features on each page.
+Multiple interactive features on each page
 --- /task ---
 
 Reflecting about how you made your book will help you in your future projects:
@@ -39,9 +41,10 @@ How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
 What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
 --- /task ---
 
-### Now you are the author of a digital book!
-
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+You are now the author of an electronic book!
 Take a moment to celebrate what you have made.
+</p>
 
 --- task ---
 
@@ -49,5 +52,5 @@ Where will you take your new powers? What will you make next? <mark>free text an
 
 --- /task ---
 
-![stylised scratch workspace](images/scratch_banner.png)
+![Stylised scratch workspace.](images/scratch_banner.png)
 

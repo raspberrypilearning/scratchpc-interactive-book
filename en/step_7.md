@@ -1,7 +1,10 @@
 ## What next?
 
-If you are following the [Scratch Physical Computing 1](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+If you enjoyed using Scratch to do physical computing, why not try one of these projects?
 
-![ProjectName project](images/projectname-project.png)
++ [LEDs, buzzers, and Scratch games](https://projects.raspberrypi.org/en/projects/leds-buzzers-scratch-games)
++ [Button switches, Scratch 3, and Raspberry Pi 4](https://projects.raspberrypi.org/en/projects/button-switch-scratch-pi)
++ [Motors, robot buggies, and Scratch 3](https://projects.raspberrypi.org/en/projects/motor-robot-buggy-scratch)
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201)!

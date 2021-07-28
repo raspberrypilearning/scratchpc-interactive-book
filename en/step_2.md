@@ -1,6 +1,8 @@
 ## Your idea
 
-Use this step to plan your book. You can plan by just thinking; adding backdrops and sprites in Scratch; drawing or writing; or however you like! 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Use this step to plan your book. You can plan by just thinking, by adding backdrops and sprites in Scratch, drawing or writing, or however you like! 
+</p>
 
 ### Why are you making the book?
 
@@ -9,12 +11,12 @@ Use this step to plan your book. You can plan by just thinking; adding backdrops
 Think about the purpose of your book. 
 
 It could be:
-- To entertain a younger child,
-- To share an important message such as encouraging recycling,
-- To teach someone how to do something such as make your favourite food, 
-- To tell or retell a story,
-- To share something about yourself,
-- To express yourself and be creative.
+- To entertain a younger child
+- To share an important message such as encouraging recycling
+- To teach someone how to do something such as make your favourite food 
+- To tell or retell a story
+- To share something about yourself
+- To express yourself and be creative
 
 --- /task ---
 
@@ -44,7 +46,7 @@ Think about the backdrops and sprites:
 - Which backdrops or background colours will you use in your book? 
 - How will users interact with your book to turn to the next page?
 - Which characters and objects will you have in your book? 
-- How will the the sprites be animated and interact on each page?
+- How will the sprites be animated and interact on each page?
 
 --- /task ---
 
