@@ -1,15 +1,56 @@
-## Upgrade your project
-If you have time, you can upgrade your project by adding more detail or flair! 
+## Reflect
 
-You might already have some ideas for things to improve your book, but if not we have some ideas for you!
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Did you meet the <span style="color: #0faeb0">project brief</span>? Think about your project and go through the checklist below and check off the ones that apply to your project.
+</p>
 
-You could:
-+ Add a cover page with cool artwork
-+ Make another page
-+ Add more code to your sprites
-+ Add another sprite
-+ Record a sound to use in the project
-+ Use the text-to-speech extension to have your book read aloud 
-+ Colour and decorate your pages and interaction device ...
+Does your book have:
 
-![Young girl holding a laptop and smiling.](images/CD-Character-Female-1-2.png)
+--- task ---
+Multiple pages with a way to turn to the next page
+--- /task ---
+--- task ---
+At least one sprite
+--- /task ---
+--- task ---
+Different actions on every page
+--- /task ---
+--- task ---
+Speech or sound effects
+--- /task ---
+
+Your book could also have:
+
+--- task ---
+Changing backdrops for each page 
+--- /task ---
+--- task ---
+Text or art created in the Paint editor
+--- /task ---
+--- task ---
+Multiple interactive features on each page
+--- /task ---
+
+Reflecting about how you made your book will help you in your future projects:
+
+--- task ---
+How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
+--- /task ---
+
+--- task ---
+What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+You are now the author of an electronic book!
+Take a moment to celebrate what you have made.
+</p>
+
+--- task ---
+
+Where will you take your new powers? What will you make next? <mark>free text answer, 3 characters possibly</mark>
+
+--- /task ---
+
+![Stylised scratch workspace.](images/scratch_banner.png)
+
