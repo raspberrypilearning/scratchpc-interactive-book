@@ -11,8 +11,8 @@ steps:
   - title: Make your pages
     completion: engaged  
   - title: Code and test
-  - title: Reflect
     completion: internal   
+  - title: Reflect
   - title: Upgrade your project
     completion: external      
   - title: What next?
