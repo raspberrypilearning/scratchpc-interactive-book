@@ -13,6 +13,6 @@ steps:
   - title: Code and test
     completion: internal   
   - title: Reflect
+    completion: external
   - title: Upgrade your project
-    completion: external      
   - title: What next?
