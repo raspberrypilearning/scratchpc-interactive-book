@@ -17,7 +17,7 @@ You will:
 ### What you will need
 To make an electronic book, you will need:
  + A Raspberry Pi computer
- + F-F jumper wires
+ + Socket-to-socket jumper wires
  + Thin cardboard (manila folders or cereal boxes are perfect!)
  + Aluminium foil
  + Glue
