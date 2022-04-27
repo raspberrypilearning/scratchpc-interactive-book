@@ -34,7 +34,7 @@ Once you have drawn all the designs you need on the front side of each page, cut
 --- /task --- 
 
 --- task ---
-Take your F-F jumper wires and remove one of the ends by pulling it off using a little force. You do this to expose the internal core of the wire.
+Take your socket-socket jumper wires and remove one of the ends by pulling it off using a little force. You do this to expose the internal core of the wire.
 --- /task ---
 
 --- task ---
@@ -91,12 +91,12 @@ In the example, I am just going to wrap a pencil in foil to create my magic wand
 --- /task ---
 
 --- task ---
-Pull the end off an F-F wire and glue or tape it down firmly to the base of the interaction tool, with the free end hanging toward where the user will grip the tool. Then wrap the tool in aluminium foil and secure the base with more glue or tape.
+Pull the end off a socket-socket wire and glue or tape it down firmly to the base of the interaction tool, with the free end hanging toward where the user will grip the tool. Then wrap the tool in aluminium foil and secure the base with more glue or tape.
 ![A stripped wire taped down to the pencil, being wrapped in aluminium foil with the wire hanging out of one end.](images/9-interaction-tool.jpg)
 --- /task ---
 
 --- task ---
-Connect your pages and interaction tool to your Raspberry Pi's GPIO pins, taking note of which pins you connect to. You could also use some M-F jumper cables to extend your wires if you want to make it easier to use the book.
+Connect your pages and interaction tool to your Raspberry Pi's GPIO pins, taking note of which pins you connect to. You could also use some pin-socket jumper cables to extend your wires if you want to make it easier to use the book.
 ![A completed electronic book and interaction tool connected to a Raspberry Pi by many jumper wires.](images/10-connect-book.jpg)
 In the example, the pages are connected to Pins 2, 3, 4, 14, and 15, while the magic wand interaction tool is connected to GND (ground) pin 6.
 --- /task ---
