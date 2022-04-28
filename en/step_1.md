@@ -56,12 +56,9 @@ An <span style="color: #0faeb0">electronic book</span> is made up of multiple pa
 
 --- task ---
 
-Think about the topic of your book as you watch these example project videos to get more ideas:
+Think about the topic of your book as you watch this example project video showing a 'Interactive Fantasy Book' to get more ideas:
 
-Self-reading book (using the `Text-to-speech`{:class="block3extensions"} extension):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zSl8d8gB0FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Interactive magic spellbook:
+Interactive Fantasy Book:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Baxz_IQPJ0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- /task ---

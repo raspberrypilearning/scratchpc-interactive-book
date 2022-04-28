@@ -13,4 +13,9 @@ You could:
 + Colour and decorate your pages and interaction device
 + Upgrade your book with better and more durable materials
 
-![Young girl holding a laptop and smiling.](images/CD-Character-Female-1-2.png)
+Self-reading book:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSl8d8gB0FM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This example uses the `Text-to-speech`{:class="block3extensions"} extension in Scratch to read out written text. The stories are from 'public domain' stories (that means they aren't owned by anyone) and simply pasted in from a text file.
+
+You can see that the user chooses the story at the beginning of the program using a contact, which changes the backdrop and sets the different story that will be read by Scratch.
