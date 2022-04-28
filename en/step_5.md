@@ -34,11 +34,11 @@ Multiple interactive features on each page
 Reflecting about how you made your book will help you in your future projects:
 
 --- task ---
-How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
+How did you get your ideas?
 --- /task ---
 
 --- task ---
-What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
+What cool new thing(s) did you learn? 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -48,7 +48,7 @@ Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next? <mark>free text answer, 3 characters possibly</mark>
+Where will you take your new powers? What will you make next?
 
 --- /task ---
 
