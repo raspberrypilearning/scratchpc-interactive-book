@@ -1,4 +1,4 @@
-## Introduction
+## You will make
 
 You are going to create an 'electronic book' in Scratch based on your own original idea. Your book will need to meet the **project brief**.
 
@@ -52,7 +52,7 @@ An <span style="color: #0faeb0">electronic book</span> is made up of multiple pa
 
 --- no-print ---
 
-### Get inspiration
+### Get ideas 💭
 
 --- task ---
 
