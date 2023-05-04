@@ -2,6 +2,8 @@
 title: Make an interactive book
 hero_image: images/banner.png
 description: Create an interactive book with Scratch and the Raspberry Pi
+meta_title: Raspberry Pi Projects | Scratch | Interactive book 
+meta_description: The final Raspberry Pi project in the Physical computing with Scratch path. Create an ‘electronic book’ in Scratch based on your own original idea.
 version: 4
 listed: true
 copyedit: true
